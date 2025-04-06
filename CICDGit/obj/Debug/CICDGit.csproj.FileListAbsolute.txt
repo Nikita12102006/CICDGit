@@ -1,0 +1,6 @@
+C:\Users\nikit\Desktop\Губернский колледж дз\Инструментальные срдства\CICDGit\CICDGit\bin\Debug\CICDGit.dll
+C:\Users\nikit\Desktop\Губернский колледж дз\Инструментальные срдства\CICDGit\CICDGit\bin\Debug\CICDGit.pdb
+C:\Users\nikit\Desktop\Губернский колледж дз\Инструментальные срдства\CICDGit\CICDGit\obj\Debug\CICDGit.csproj.AssemblyReference.cache
+C:\Users\nikit\Desktop\Губернский колледж дз\Инструментальные срдства\CICDGit\CICDGit\obj\Debug\CICDGit.csproj.CoreCompileInputs.cache
+C:\Users\nikit\Desktop\Губернский колледж дз\Инструментальные срдства\CICDGit\CICDGit\obj\Debug\CICDGit.dll
+C:\Users\nikit\Desktop\Губернский колледж дз\Инструментальные срдства\CICDGit\CICDGit\obj\Debug\CICDGit.pdb
